@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9d0d26970ff08669c0821b9a409f3cdc.js"
+  "/precache-manifest.69f8263830135f448e17b8b299f52d30.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "essay-client-shop-frontend"});
